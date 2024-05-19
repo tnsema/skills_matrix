@@ -1,0 +1,90 @@
+
+nav{
+    width: 100%;
+    background-color: rgb(229, 231, 231);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: capitalize;
+    font-size: 17px;
+    font-weight: 500;
+}
+#company_logo{
+
+    height: 1.5cm;
+    border-radius: 50%;
+}
+
+.holder{
+    background-color: rgb(229, 231, 231);
+    border-radius: 10px;
+    min-height: 2cm;
+    padding: 50px;
+    box-shadow: 2px 2px 3px 3px rgb(200, 200, 200);
+
+}
+
+h1{
+  text-align: center;
+  text-shadow: -9px 7px 3px rgb(131, 131, 131);  
+  font-family: arkitek;
+  margin-bottom: 60px;
+  margin-top: 60px;
+
+}
+
+h2{
+    text-align: center; 
+    font-family: arkitek;
+    margin-bottom: 60px;
+  }
+
+  h5{
+    margin-bottom: 60px;
+    margin-top: 60px;
+  }
+
+
+.beginer{
+    border-radius: 5px;
+    height: 1cm;
+    width: 3cm;
+    background-color: red;
+}
+
+.intermadiate{
+    border-radius: 5px;
+    height: 1cm;
+    width: 6cm;
+    background-color: orange;
+}
+
+.advanced{
+    border-radius: 5px;
+    height: 1cm;
+    width: 9cm;
+    background-color: rgb(255, 234, 5);
+}
+
+.expert{
+    border-radius: 5px;
+    height: 1cm;
+    width: 12cm;
+    background-color: green;
+}
+
+footer{
+    margin-top: 20px;
+    height: 3cm;
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(12, 12, 12);
+    color: rgb(201, 201, 201);
+
+}
